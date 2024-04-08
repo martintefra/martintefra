@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Martin 
-- 👀 I’m interested in AI, Deep learning and NLP
+- 👀 I’m interested in Deep learning, NLP and Data Engineering
 - 🌱 I’m currently learning graph neural networks
 
 

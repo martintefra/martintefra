@@ -14,9 +14,3 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascala"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=Java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascala"><img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white"></a>
 </p>
-
-### 👉 Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/martin-tefra/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>

@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Martin Tefra
 - 👀 I’m interested in Deep learning, NLP and Data Engineering
-- 🌱 I’m currently learning graph neural networks
+- 🌱 I’m currently learning Graph Neural Networks (GNNs)
 
 
 ### 👨🏼‍💻 Programming Languages:
